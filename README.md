@@ -1,4 +1,4 @@
-# Developer_Survey_Project      Note: to fully understand this project, please read the follwoing details:
+# Developer_Survey_Project - Note: to fully understand this project, please read the follwoing details:
 Dataset used: Developer Survey is an annual survey by Stack Overflow, it is the largest and most comprehensive survey of people who code around the world.
 The dataset covers developers’ favorite technologies, their job preferences and more. 
 This project has 3 different files (all of them for the same project): developers_survey_2019_project,  developers_survey_2019_dashboards, and, developers_survey_2019_presentation
