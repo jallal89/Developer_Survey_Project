@@ -7,9 +7,9 @@ This project has 3 different files:
  + **developers_survey_2019_presentation: After everything was done, I made a presentation of the project analysis, the findings, the implications and the suggestions based on dataset respondents preferences**
  
 ## Languages Used: 
+
  + **Python**
  + **Few queries in SQL**
-
-### Tools Used:
+ + ### Tools Used:
  + **Visual Studio Code - Jupyter Notebooks**
  + **IBM Cognos Analytics for dashboards**
