@@ -10,8 +10,6 @@ This project has 3 different files:
  + **Python**
  + **Few queries in SQL**
 
-
-   
-### Tools Used
+### Tools Used:
  + **Visual Studio Code - Jupyter Notebooks**
  + **IBM Cognos Analytics for dashboards**
