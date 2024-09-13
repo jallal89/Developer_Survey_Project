@@ -4,5 +4,5 @@ The dataset covers developers’ favorite technologies, their job preferences an
 This project has 3 different files: 
  + **developers_survey_2019_code: This file has all the code, python libraries used, visualizations and RDBMS SQL queries. All of this is done in Visual Studio Code Jupyter Notebook**
  + **developers_survey_2019_dashboards: I used  IBM Cognos Analytics to build 3 different dashboards for the project** 
- + **developers_survey_2019_presentation: After finishing everything, I made a presentation of the overall analysis of the dataset, the findings, implications and the suggestions based on dataset respondents preferences**
+ + **developers_survey_2019_presentation: After finishing everything, I made a presentation of the project analysis, the findings, implications and the suggestions based on dataset respondents preferences**
  
