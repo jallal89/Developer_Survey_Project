@@ -12,6 +12,6 @@ This project has 3 different files:
 
    
 ### Tools Used:
- 1 **Visual Studio Code - Jupyter Notebooks**
- 2 **IBM Cognos Analytics for dashboards**
- 3 **Microsoft PowerPoint for presentation**
+ + 1 **Visual Studio Code - Jupyter Notebooks**
+ + 2 **IBM Cognos Analytics for dashboards**
+ + 3 **Microsoft PowerPoint for presentation**
