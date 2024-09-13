@@ -13,4 +13,3 @@ This project has 3 different files:
 ### Tools Used:
  + **Visual Studio Code - Jupyter Notebooks**
  + **IBM Cognos Analytics for dashboards**
- + 
