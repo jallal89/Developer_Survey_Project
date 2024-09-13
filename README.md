@@ -9,7 +9,6 @@ This project has 3 different files:
 ## Languages Used: 
  + **Python**
  + **Few queries in SQL**
-
 ### Tools Used:
  + **Visual Studio Code - Jupyter Notebooks**
  + **IBM Cognos Analytics for dashboards**
