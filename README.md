@@ -15,7 +15,7 @@ This project has 3 different files:
 + **IBM Cognos Analytics for dashboards**
 + **Microsoft PowerPoint for presentation**
 
-### Project Key Findings and Analysis: 
+## Project Key Findings and Analysis: 
 + **Languages such as Python, C# and SQL will continue to grow as demand is high**
 + **Among all programming languages, Scala and R are the least desired for the developers for the current year**
 + **A key reason as why some of these languages are more desirable is due to platforms where the language is used**
