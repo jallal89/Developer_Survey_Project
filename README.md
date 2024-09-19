@@ -23,3 +23,9 @@ This project has 3 different files:
 + **MongoDB keeps its place among favorite DBs and comes in 3rd place among favorite DBs for coders**
 + **Relational DBs like SSMS appear to be widely used as tabular, structured data is crucial**
 + **Big technology will need both, relational and non-relationshal DBs and dashboards analysis tells us exactly that**
++ **Data evaluations and dashboards tell us how crucial education is on coding developers**
++ **Coders appear to be more men compared to women, reducing gaps in tech is crucial for society overall**
++ **Gaps in tech also show among countries, where developing nations appear to need more skills and help**
++ **Online learning, internet and platforms such as YouTube can provide opportunities for developing societies**
++ **Technology changes in fast pace and nations will need softwares updated, skills improved to catch up**
+  
