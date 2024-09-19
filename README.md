@@ -18,6 +18,7 @@ This project has 3 different files:
 ## Project Key Findings and Analysis:
 - Languages such as Python, C# and SQL will continue to grow as demand is high
 - Among all programming languages, Scala and R are the least desired for the developers for the current year
+- Developers are from 135 countries, with 3173 developers from United states, India in second place with 911 developers
 - A key reason as why some of these languages are more desirable is due to platforms where the language is used
 - MySQL and Microsoft SQL Server remain among favorite DBs among developers and this trend is likely to continue
 - MongoDB keeps its place among favorite DBs and comes in 3rd place among favorite DBs for coders
