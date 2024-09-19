@@ -11,9 +11,9 @@ This project has 3 different files:
 - Few queries in SQL
 
 ## Tools Used:
-+ **Visual Studio Code - Jupyter Notebooks**
-+ **IBM Cognos Analytics for dashboards**
-+ **Microsoft PowerPoint for presentation**
++ Visual Studio Code - Jupyter Notebooks
++ IBM Cognos Analytics for dashboards
++ Microsoft PowerPoint for presentation
 
 ## Project Key Findings and Analysis:
 - Languages such as Python, C# and SQL will continue to grow as demand is high
