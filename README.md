@@ -1,4 +1,4 @@
-# Python Project: Developer Survey 2019
+# Python Project: Developer Survey
 Developer Survey is an annual survey by Stack Overflow, it is the largest and most comprehensive survey of people who code around the world.
 The dataset covers developers’ favorite technologies, their job preferences and more. 
 This project has 3 different files: 
